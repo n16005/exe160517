@@ -20,4 +20,4 @@
 1. chown
 1. chgrp
 1. chmod
-1. umask
+1. umasik
